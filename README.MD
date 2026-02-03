@@ -92,7 +92,3 @@ Linha a adicionar em `src/fakebank/index.html`:
 
 ---
 
-## 👤 Autor / Author
-
-Criado por João Albero · 2025  
-Created by João Albero · 2025
